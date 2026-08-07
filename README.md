@@ -8,10 +8,8 @@ Currently building ML projects and practicing DSA in Java.
 Java, Python, pandas, numpy, scikit-learn, Git
 
 ## Projects
-
-* Phishing Link Detetction (ML)
-* Movie Recommendation System (NLP)
-* crowd source civic issue(frontend)
+*PatentLensAI
+*CircularAI
 * Java DSA Practice
 
 ## Problem Solving
